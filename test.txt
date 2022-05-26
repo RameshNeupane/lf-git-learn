@@ -1,2 +1,14 @@
 Hello,
 This is workshop for the git and gitflow.
+some basic commands
+
+Commands
+---------
+1.git config --global user.name "username"
+2.git config --global user.email "email"
+3. git init => initial working directory
+4. git status
+5. git add (<filename> or .) => adds file to stating area and git can track files
+6. git commit -m "message" => commit changes with message
+
+
