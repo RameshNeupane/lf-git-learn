@@ -12,4 +12,8 @@ Commands
 6. git commit -m "message" => commit changes with message
 7. git log => detailed log info
 8. git log --oneline => first line of log info
+9. git remote add origin "url" => link github repo to local git repo
+10. git remote -v => check the liniking
+11. git push origin master => push the changes to the github repo
+
 
