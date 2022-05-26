@@ -10,5 +10,6 @@ Commands
 4. git status
 5. git add (<filename> or .) => adds file to stating area and git can track files
 6. git commit -m "message" => commit changes with message
-
+7. git log => detailed log info
+8. git log --oneline => first line of log info
 
